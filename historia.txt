@@ -1,0 +1,5 @@
+Mi nombre es Brian Gamboa, tengo 22 años y naci en Apurimac.
+
+Estoy aprendientodo GIT
+
+Mañana estudiaré javaScript
